@@ -4,7 +4,7 @@
 {
     "id": citizen-nsl
     "username": "RedNZ",
-    "level": 24,
+    "level": 22,
     "host": "Chennai, India",
     "inventory":{
         "weapons": ["Rust", "Lua", "Typescript"],
