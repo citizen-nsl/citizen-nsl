@@ -4,14 +4,14 @@
 {
     "id": citizen-nsl
     "username": "RedNZ",
-    "level": 22,
+    "level": 23,
     "host": "Chennai, India",
     "inventory":{
         "weapons": ["Rust", "Lua", "Typescript"],
         "food": ["Coffee", "Ice Cream"]
     },
     "realms": ["Anime", "Programming", "Music"],
-    "achievements": "",
+    "achievements": "LuxeTech Solutions",
 }
 ```
 
