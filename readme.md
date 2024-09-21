@@ -11,7 +11,7 @@
         "food": ["Coffee", "Ice Cream", "Anime"]
     },
     "realms": ["Anime", "Programming", "Music"],
-    "achievements": "WhatDog Team",
+    "achievements": "Watch Team",
 }
 ```
 
